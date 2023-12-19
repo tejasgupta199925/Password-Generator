@@ -36,3 +36,19 @@ h2 {
     /* border: 2px solid aqua; */
     margin-top: 15vh;
 }
+
+.rangecontainer {
+    /* border: 2px solid saddlebrown; */
+    padding: 2px 1px;
+    box-sizing: border-box;
+    display: flex;
+}
+
+input[type='range'] {
+    /* margin-top: 1px; */
+}
+
+#abc {
+    /* border: 2px solid yellow; */
+    align-items: center;
+}
